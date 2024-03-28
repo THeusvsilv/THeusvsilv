@@ -2,7 +2,7 @@
 # Opa, THeus aqui!
 Cursando Sistemas de Informação no Instituto Federal Goiano - Campus ceres,
 
-Atuando como Programador de sistemas na CRV Industrial
+Atuando como Programador de sistemas na Rubi S.A. / CRV Industrial
 
 ## Um pouco sobre minhas habilidades 
 
