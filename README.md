@@ -8,7 +8,7 @@ Atuando como Programador de sistemas na Rubi S.A. / CRV Industrial
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,angular,flutter,mysql,postgres,mongo,bootstrap,nodejs,npm,sass,py,ts,dart,php,js,java,git,sqlite,vscode,jquery&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,angular,flutter,mysql,docker,postgres,bootstrap,nodejs,npm,sass,py,ts,dart,php,js,java,git,sqlite,vscode,jquery&perline=5)](https://skillicons.dev)
 
 
 
