@@ -12,5 +12,4 @@ Atuando como Programador de sistemas na Rubi S.A. / CRV Industrial
 
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=THeusvsilv\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 
